@@ -17,4 +17,4 @@ automatic_updates=yes
 timezone=Europe/Warsaw
 ntp_server=tempus1.gum.gov.pl
 right_mouse_click=no
-kiosk_config=https://github.com/aiddom/kiosk/blob/main/kiosk-config_ff.txt
+kiosk_config=https://raw.githubusercontent.com/aiddom/kiosk/refs/heads/main/kiosk-config_ff.txt
