@@ -8,7 +8,7 @@ hostname=BRS_IB
 session_idle=10
 primary_keyboard_layout=pl
 rtc_wake=Monday-06:00 Tuesday-06:00 Wednesday-06:00 Thursday-06:00 Friday-06:00 Saturday-06:00 Sunday-06:00
-whitelist=sgb.pl sgb24.pl bankrumia.pl mojeid.pl gov.pl pz.gov.pl www.onet.pl
+whitelist=sgb.pl sgb24.pl bankrumia.pl mojeid.pl gov.pl pz.gov.pl www.onet.pl youtu.be youtube.com github.com
 additional_components=uefi.zip 
 wake_on_lan=yes
 disable_private_mode=no
@@ -22,4 +22,4 @@ wallpaper=https://github.com/aiddom/kiosk/blob/main/Tapeta_BRS.jpg
 scheduled_action=Monday-07:00 Tuesday-07:00 Wednesday-07:00 Thursday-07:00 Friday-07:00 action:reboot
 allow_popup_windows=yes
 screensaver_idle=0
-screensaver_webpage=https://bankrumia.pl/bezpieczenstwo/Bezpieczna-bankowosc-internetowa/
+screensaver_video=https://youtu.be/VLLT9nUPgRA?si=nsK5IV7kqutjpUnO
