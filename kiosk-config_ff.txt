@@ -20,3 +20,4 @@ right_mouse_click=no
 kiosk_config=https://raw.githubusercontent.com/aiddom/kiosk/refs/heads/main/kiosk-config_ff.txt
 wallpaper=https://github.com/aiddom/kiosk/blob/main/Tapeta_BRS.jpg
 scheduled_action=Monday-07:00 Tuesday-07:00 Wednesday-07:00 Thursday-07:00 Friday-07:00 action:reboot
+allow_popup_windows=yes
