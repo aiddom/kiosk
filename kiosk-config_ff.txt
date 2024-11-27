@@ -22,4 +22,4 @@ wallpaper=https://github.com/aiddom/kiosk/blob/main/Tapeta_BRS.jpg
 scheduled_action=Monday-07:00 Tuesday-07:00 Wednesday-07:00 Thursday-07:00 Friday-07:00 action:reboot
 allow_popup_windows=yes
 screensaver_idle=0
-screensaver_video=https://github.com/aiddom/kiosk/raw/refs/heads/main/kj.mp4
+screensaver_webpage=https://bankrumia.pl/bezpieczenstwo/Bezpieczna-bankowosc-internetowa/
