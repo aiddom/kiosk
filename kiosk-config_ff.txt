@@ -23,3 +23,4 @@ scheduled_action=Monday-07:00 Tuesday-07:00 Wednesday-07:00 Thursday-07:00 Frida
 allow_popup_windows=yes
 screensaver_idle=0
 screensaver_video=https://youtu.be/VLLT9nUPgRA?si=nsK5IV7kqutjpUnO
+hardware_video_decode=yes
