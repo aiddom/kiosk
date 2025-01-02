@@ -26,6 +26,8 @@ screensaver_idle=0
 #screensaver_video=https://github.com/aiddom/kiosk/raw/refs/heads/main/kj.mp4
 screensaver_video=https://takaroznica.sgb.pl/dist/video/sgb-bank.webm
 hardware_video_decode=yes
-volume_level=70%
+volume_level=0%
+removable_devices=no
+shutdown_menu=reboot
 
 
