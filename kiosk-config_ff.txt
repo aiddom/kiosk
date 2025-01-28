@@ -35,7 +35,7 @@ shutdown_menu=reboot
 hostname=IB_TEST
 screensaver_idle=0
 volume_level=0%
-session_idle=
+session_idle=2
 shutdown_menu=reboot shutdown
 
 [[ 6-A3-A66-FE-D6 ]]
