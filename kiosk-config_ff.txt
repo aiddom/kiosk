@@ -29,7 +29,7 @@ screensaver_video=https://takaroznica.sgb.pl/dist/video/sgb-bank.webm
 hardware_video_decode=yes
 volume_level=0%
 removable_devices=no
-shutdown_menu=reboot shutdown
+shutdown_menu=reboot
 
 [[ 6-54-63F-CA-E7 ]]
 screensaver_idle=0
