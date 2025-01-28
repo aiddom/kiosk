@@ -36,6 +36,7 @@ hostname=IB_TEST
 screensaver_idle=0
 volume_level=0%
 session_idle=
+shutdown_menu=reboot shutdown
 
 [[ 6-A3-A66-FE-D6 ]]
 hostname=IB_Rumia
