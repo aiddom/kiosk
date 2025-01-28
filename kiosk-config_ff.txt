@@ -32,7 +32,10 @@ removable_devices=no
 shutdown_menu=reboot
 
 [[ 6-54-63F-CA-E7 ]]
+hostname=IB_TEST
 screensaver_idle=0
 volume_level=0%
 session_idle=
 
+[[ 6-A3-A66-FE-D6 ]]
+hostname=IB_Rumia
