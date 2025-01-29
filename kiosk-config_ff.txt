@@ -32,6 +32,7 @@ removable_devices=no
 shutdown_menu=reboot
 
 [[ 6-54-63F-CA-E7 ]]
+#testowe
 hostname=IB_TEST
 screensaver_idle=2
 volume_level=0%
