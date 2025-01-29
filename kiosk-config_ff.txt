@@ -40,3 +40,6 @@ shutdown_menu=reboot shutdown
 
 [[ 6-A3-A66-FE-D6 ]]
 hostname=IB_Rumia
+
+[[ 	8-E5-379-F7-F3 ]]
+hostname=IB_Kosakowo
