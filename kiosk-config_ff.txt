@@ -33,9 +33,9 @@ shutdown_menu=reboot
 
 [[ 6-54-63F-CA-E7 ]]
 hostname=IB_TEST
-screensaver_idle=0
+screensaver_idle=2
 volume_level=0%
-session_idle=2
+session_idle=5
 shutdown_menu=reboot shutdown
 disable_navigation_bar=yes
 onscreen_buttons=home
