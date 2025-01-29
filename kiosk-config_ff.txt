@@ -37,9 +37,10 @@ screensaver_idle=0
 volume_level=0%
 session_idle=2
 shutdown_menu=reboot shutdown
+disable_navigation_bar=yes
 
 [[ 6-A3-A66-FE-D6 ]]
 hostname=IB_Rumia
 
-[[ 	8-E5-379-F7-F3 ]]
+[[ 8-E5-379-F7-F3 ]]
 hostname=IB_Kosakowo
