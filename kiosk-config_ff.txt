@@ -38,7 +38,8 @@ volume_level=0%
 session_idle=5
 shutdown_menu=reboot shutdown
 disable_navigation_bar=yes
-onscreen_buttons=home
+onscreen_buttons=home zoom-in zoom-out
+onscreen_buttons_position=top
 
 [[ 6-A3-A66-FE-D6 ]]
 hostname=IB_Rumia
