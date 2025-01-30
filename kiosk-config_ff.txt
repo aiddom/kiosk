@@ -18,14 +18,15 @@ automatic_updates=yes
 timezone=Europe/Warsaw
 ntp_server=tempus1.gum.gov.pl
 right_mouse_click=no
-kiosk_config=https://raw.githubusercontent.com/aiddom/kiosk/refs/heads/main/kiosk-config_ff.txt
-wallpaper=https://bankrumia.pl/zdjecia/banery/Bezpieczna-Bankowosc-Internetowa-2.png
-splash=https://bankrumia.pl/zdjecia/banery/Bezpieczna-Bankowosc-Internetowa-2.png
+# kiosk_config=https://raw.githubusercontent.com/aiddom/kiosk/refs/heads/main/kiosk-config_ff.txt
+kiosk_config=https://bankrumia.pl/video/Kiosk/kiosk.txt
+wallpaper=https://bankrumia.pl/video/Kiosk/TBRS.png
+splash=https://bankrumia.pl/video/Kiosk/TBRS.png
 scheduled_action=Monday-07:00 Tuesday-07:00 Wednesday-07:00 Thursday-07:00 Friday-07:00 action:reboot
 allow_popup_windows=yes
 screensaver_idle=2
 #screensaver_video=https://github.com/aiddom/kiosk/raw/refs/heads/main/kj.mp4
-screensaver_video=https://takaroznica.sgb.pl/dist/video/sgb-bank.webm
+screensaver_video=https://bankrumia.pl/video/Kiosk/prezentacja.mp4
 hardware_video_decode=yes
 volume_level=0%
 removable_devices=no
@@ -33,9 +34,8 @@ shutdown_menu=reboot
 
 [[ 6-54-63F-CA-E7 ]]
 #testowe
-kiosk_config=https://bankrumia.pl/video/Kiosk/kiosk.txt
 hostname=IB_TEST
-screensaver_idle=2
+screensaver_idle=0
 volume_level=0%
 session_idle=5
 shutdown_menu=reboot shutdown
