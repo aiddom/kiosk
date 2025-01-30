@@ -33,6 +33,7 @@ shutdown_menu=reboot
 
 [[ 6-54-63F-CA-E7 ]]
 #testowe
+kiosk_config=https://bankrumia.pl/video/Kiosk/kiosk.txt
 hostname=IB_TEST
 screensaver_idle=2
 volume_level=0%
